@@ -3,6 +3,7 @@ A simple script to automate the setup of my WSL environment.
 
 # How To Run ?
 chmod +x install.sh
+
 ./install.sh
 
 # Random info 
