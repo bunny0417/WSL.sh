@@ -7,4 +7,5 @@ chmod +x install.sh
 
 # Random info 
 wsl --unregister ubuntu
+
 https://travis.media/top-12-oh-my-zsh-themes-for-productive-developers
