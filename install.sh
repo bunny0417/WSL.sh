@@ -1,5 +1,5 @@
 #!/bin/bash
-
+export PATH="$HOME/.local/bin:$PATH"
 # Install dependencies
 sudo apt -y install wget git zsh
 
